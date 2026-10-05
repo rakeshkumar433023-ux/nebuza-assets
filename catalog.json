@@ -18,8 +18,7 @@
       "duration": "9:56",
       "thumbnailUrl": null,
       "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
-   "featured": true,
-      "description": "Comedy featured test video."
+   
     },
     {
       "id": "sample-video-3",
@@ -28,6 +27,8 @@
       "duration": "9:56",
       "thumbnailUrl": null,
       "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+      "featured": true,
+      "description": "Comedy featured test video."
     },
     {
       "id": "sample-video-4",
