@@ -8,7 +8,7 @@
       "duration": "9:56",
       "thumbnailUrl": "https://rakeshkumar433023-ux.github.io/nebuza-assets/assets/test-thumbnail.jpg",
       "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
-      "featured": true,
+    
       "description": "Open-source sample film used to test NEBUZA PLAYER."
     },
     {
@@ -18,6 +18,8 @@
       "duration": "9:56",
       "thumbnailUrl": null,
       "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+   "featured": true,
+      "description": "Comedy featured test video."
     },
     {
       "id": "sample-video-3",
