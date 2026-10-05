@@ -7,11 +7,13 @@
       "category": "Featured",
       "duration": "9:56",
       "thumbnailUrl": "https://rakeshkumar433023-ux.github.io/nebuza-assets/assets/test-thumbnail.jpg",
-      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
+      "featured": true,
+      "description": "Open-source sample film used to test NEBUZA PLAYER."
     },
     {
       "id": "sample-video-2",
-      "title": "LIVE CATALOG TEST",
+      "title": "Sample Video 2",
       "category": "Action",
       "duration": "9:56",
       "thumbnailUrl": null,
