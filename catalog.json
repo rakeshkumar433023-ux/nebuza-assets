@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "videos": [
+    {
+      "id": "big-buck-bunny",
+      "title": "Big Buck Bunny",
+      "category": "Featured",
+      "duration": "9:56",
+      "thumbnailUrl": "https://rakeshkumar433023-ux.github.io/nebuza-assets/assets/test-thumbnail.jpg",
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "id": "sample-video-2",
+      "title": "Sample Video 2",
+      "category": "Action",
+      "duration": "9:56",
+      "thumbnailUrl": null,
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "id": "sample-video-3",
+      "title": "Sample Video 3",
+      "category": "Comedy",
+      "duration": "9:56",
+      "thumbnailUrl": null,
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "id": "sample-video-4",
+      "title": "Sample Video 4",
+      "category": "Drama",
+      "duration": "9:56",
+      "thumbnailUrl": null,
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "id": "sample-video-5",
+      "title": "Sample Video 5",
+      "category": "Action",
+      "duration": "9:56",
+      "thumbnailUrl": null,
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "id": "sample-video-6",
+      "title": "Sample Video 6",
+      "category": "Comedy",
+      "duration": "9:56",
+      "thumbnailUrl": null,
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "id": "sample-video-7",
+      "title": "Sample Video 7",
+      "category": "Drama",
+      "duration": "9:56",
+      "thumbnailUrl": null,
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "id": "sample-video-8",
+      "title": "Sample Video 8",
+      "category": "Action",
+      "duration": "9:56",
+      "thumbnailUrl": null,
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "id": "sample-video-9",
+      "title": "Sample Video 9",
+      "category": "Comedy",
+      "duration": "9:56",
+      "thumbnailUrl": null,
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    },
+    {
+      "id": "sample-video-10",
+      "title": "Sample Video 10",
+      "category": "Drama",
+      "duration": "9:56",
+      "thumbnailUrl": null,
+      "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
+    }
+  ]
+}
