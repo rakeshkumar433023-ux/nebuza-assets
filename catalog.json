@@ -62,7 +62,7 @@
     {
       "id": "sample-video-8",
       "title": "Sample Video 8",
-      "category": "Action",
+      "category": "action",
       "duration": "9:56",
       "thumbnailUrl": null,
       "videoUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
